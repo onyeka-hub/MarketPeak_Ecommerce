@@ -84,8 +84,6 @@ sudo systemctl reload httpd
 
 ![application](./images/website-from-the-browser.PNG)
 
-![continous integration](./images/continous-integration.PNG)
-
 
 ### Continuous Integration and Deployment workflow
 
