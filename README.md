@@ -2,7 +2,7 @@
 
 ![topic](./images/topic.PNG)
 
-Initialise your git repo
+Initialise your git repo on your local machine
 
 ```
 mkdir MarketPeak_Ecommerce
@@ -12,7 +12,7 @@ git init
 
 ![template](./images/template.PNG)
 
-You can obtain the template from [here](https://www.tooplate.com/view/2130-waso-strategy)
+You can obtain the template from [here](https://www.tooplate.com/view/2130-Onyeka-Onu)
 
 ![template](./images/template2.PNG)
 
@@ -98,6 +98,8 @@ Or the above two can be combined in one command as below
 git checkout -b development
 ```
 - Implement changes. On the development branch, add your new features or bug fixes. This might include updating web pages, adding new products or fixing known issues.
+
+I added some images and edited the html file to add some address and numbers.
 
 #### Step 2: Version control with Git
 - Stage your changes. After making your changes, add them to the staging area in Git. This prepares the changes for a commit.
